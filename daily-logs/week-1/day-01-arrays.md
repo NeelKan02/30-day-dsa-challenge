@@ -10,16 +10,16 @@
 ## 🎯 Today's Learning Objectives
 
 ### Theory Goals (45 minutes)
-- [ ] Understand array memory layout and indexing
-- [ ] Learn array time complexities (access, search, insertion, deletion)
-- [ ] Study dynamic array concepts and implementation
-- [ ] Compare static vs dynamic arrays
+- [x] Understand array memory layout and indexing
+- [x] Learn array time complexities (access, search, insertion, deletion)
+- [x] Study dynamic array concepts and implementation
+- [x] Compare static vs dynamic arrays
 
 ### Implementation Goals (45 minutes) 
-- [ ] Implement a dynamic array class in Python
-- [ ] Include methods: append, insert, delete, resize
-- [ ] Add proper error handling and edge cases
-- [ ] Write basic test cases for verification
+- [x] Implement a dynamic array class in Python
+- [x] Include methods: append, insert, delete, resize
+- [x] Add proper error handling and edge cases
+- [x] Write basic test cases for verification
 
 ### Problem-Solving Goals (45 minutes)
 **Target: 5 LeetCode Problems**
