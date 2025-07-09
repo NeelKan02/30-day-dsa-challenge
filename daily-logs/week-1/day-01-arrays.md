@@ -23,11 +23,11 @@
 
 ### Problem-Solving Goals (45 minutes)
 **Target: 5 LeetCode Problems**
-- [ ] [Two Sum (#1)](https://leetcode.com/problems/two-sum/) - Easy
-- [ ] [Remove Duplicates from Sorted Array (#26)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - Easy  
+- [x] [Two Sum (#1)](https://leetcode.com/problems/two-sum/) - Easy
+- [x] [Remove Duplicates from Sorted Array (#26)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - Easy  
 - [ ] [Best Time to Buy and Sell Stock (#121)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - Easy
 - [ ] [Rotate Array (#189)](https://leetcode.com/problems/rotate-array/) - Medium
-- [ ] [Contains Duplicate (#217)](https://leetcode.com/problems/contains-duplicate/) - Easy
+- [x] [Contains Duplicate (#217)](https://leetcode.com/problems/contains-duplicate/) - Easy
 
 ---
 
@@ -107,7 +107,7 @@ class DynamicArray:
 ### Problem 1: Two Sum (#1)
 **Difficulty:** Easy  
 **Approach:** Hash map for O(n) solution  
-**Status:** [ ] Not Started / [ ] In Progress / [ ] Completed
+**Status:** [ ] Not Started / [ ] In Progress / [x] Completed
 
 **Key Insights:**
 - Brute force: O(n²) - check all pairs

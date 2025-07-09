@@ -10,8 +10,8 @@
 ## 🎯 Today's Learning Objectives
 
 ### Theory Goals
-- [ ] Understand linked list structure and node concept
-- [ ] Learn singly vs doubly linked lists
+- [x] Understand linked list structure and node concept
+- [x] Learn singly vs doubly linked lists
 - [ ] Study linked list time complexities
 - [ ] Compare arrays vs linked lists
 
