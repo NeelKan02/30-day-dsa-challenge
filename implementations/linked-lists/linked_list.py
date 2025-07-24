@@ -54,7 +54,7 @@ class LinkedList:
 
     def insert_at_position(self, data, pos):
         if pos > self.size:
-            raise IndexError (f"{pos} is incorrect for list of size{self.size}")
+            raise IndexError (f"{pos} is incorrect for list of size {self.size}")
 
         iter = self.head
         while pos:
