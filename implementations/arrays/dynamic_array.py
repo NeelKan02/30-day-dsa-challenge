@@ -237,7 +237,6 @@ if __name__ == "__main__":
 
     ar[2] = 3
     print(ar)
-    ar
     ar.insert(4, 72)
     ar.insert(0, 8)
     print(ar)
