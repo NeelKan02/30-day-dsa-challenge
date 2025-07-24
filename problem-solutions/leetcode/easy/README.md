@@ -3,10 +3,10 @@
 Collection of easy-level LeetCode problems solved during the 30-day challenge.
 
 ## Day 1 Problems (Arrays Foundation)
-- [ ] [Two Sum (#1)](https://leetcode.com/problems/two-sum/)
-- [ ] [Remove Duplicates from Sorted Array (#26)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [x] [Two Sum (#1)](https://leetcode.com/problems/two-sum/)
+- [x] [Remove Duplicates from Sorted Array (#26)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [ ] [Best Time to Buy and Sell Stock (#121)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] [Contains Duplicate (#217)](https://leetcode.com/problems/contains-duplicate/)
+- [x] [Contains Duplicate (#217)](https://leetcode.com/problems/contains-duplicate/)
 
 ## Day 2 Problems (Arrays Advanced)
 - [ ] [Maximum Subarray (#53)](https://leetcode.com/problems/maximum-subarray/)
