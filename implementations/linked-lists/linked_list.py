@@ -88,6 +88,11 @@ class LinkedList:
         if self.head is None:
             return f"List is empty!!"
         
+        if self.head.next is None:  # Single-element list
+            self.head = None
+            self.size -= 1
+            return
+        
         iter = self.head
         while iter.next.next:
             iter = iter.next
