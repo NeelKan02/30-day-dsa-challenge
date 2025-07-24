@@ -25,8 +25,8 @@
 **Target: 5 LeetCode Problems**
 - [x] [Two Sum (#1)](https://leetcode.com/problems/two-sum/) - Easy
 - [x] [Remove Duplicates from Sorted Array (#26)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - Easy  
-- [ ] [Best Time to Buy and Sell Stock (#121)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - Easy
-- [ ] [Rotate Array (#189)](https://leetcode.com/problems/rotate-array/) - Medium
+- [x] [Best Time to Buy and Sell Stock (#121)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - Easy
+- [x] [Rotate Array (#189)](https://leetcode.com/problems/rotate-array/) - Medium
 - [x] [Contains Duplicate (#217)](https://leetcode.com/problems/contains-duplicate/) - Easy
 
 ---
@@ -117,7 +117,7 @@ class DynamicArray:
 ### Problem 2: Remove Duplicates from Sorted Array (#26)
 **Difficulty:** Easy  
 **Approach:** Two pointers technique  
-**Status:** [ ] Not Started / [ ] In Progress / [ ] Completed
+**Status:** [ ] Not Started / [ ] In Progress / [x] Completed
 
 **Key Insights:**
 - Take advantage of sorted nature
@@ -147,7 +147,7 @@ class DynamicArray:
 ### Problem 5: Contains Duplicate (#217)
 **Difficulty:** Easy  
 **Approach:** Set for O(n) detection  
-**Status:** [ ] Not Started / [ ] In Progress / [ ] Completed
+**Status:** [ ] Not Started / [ ] In Progress / [x] Completed
 
 **Key Insights:**
 - Hash set to track seen elements
@@ -232,22 +232,22 @@ class DynamicArray:
 
 ## 📚 Additional Resources Used Today
 
-- [ ] [GeeksforGeeks - Array Data Structure](https://www.geeksforgeeks.org/array-data-structure/)
-- [ ] [Visualgo - Array Visualization](https://visualgo.net/en/list)
-- [ ] [LeetCode Array Problems](https://leetcode.com/tag/array/)
-- [ ] [Python List Implementation Details](https://docs.python.org/3/tutorial/datastructures.html)
+- [x] [GeeksforGeeks - Array Data Structure](https://www.geeksforgeeks.org/array-data-structure/)
+- [x] [Visualgo - Array Visualization](https://visualgo.net/en/list)
+- [x] [LeetCode Array Problems](https://leetcode.com/tag/array/)
+- [x] [Python List Implementation Details](https://docs.python.org/3/tutorial/datastructures.html)
 
 ---
 
 ## ✅ End-of-Day Checklist
 
-- [ ] All theory objectives completed
-- [ ] Dynamic array implementation finished and tested
-- [ ] All 5 target problems solved
-- [ ] Solutions documented with explanations
-- [ ] Daily reflection completed
-- [ ] Progress tracker updated
-- [ ] Tomorrow's session planned
+- [x] All theory objectives completed
+- [x] Dynamic array implementation finished and tested
+- [x] All 5 target problems solved
+- [x] Solutions documented with explanations
+- [x] Daily reflection completed
+- [x] Progress tracker updated
+- [x] Tomorrow's session planned
 
 ---
 

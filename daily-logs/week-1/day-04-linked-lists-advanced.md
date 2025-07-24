@@ -18,7 +18,7 @@
 **Target: 3 LeetCode Problems**
 - [ ] [Remove Nth Node From End of List (#19)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - Medium
 - [ ] [Add Two Numbers (#2)](https://leetcode.com/problems/add-two-numbers/) - Medium
-- [ ] [Palindrome Linked List (#234)](https://leetcode.com/problems/palindrome-linked-list/) - Easy
+- [x] [Palindrome Linked List (#234)](https://leetcode.com/problems/palindrome-linked-list/) - Easy
 
 ---
 
