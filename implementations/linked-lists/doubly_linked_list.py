@@ -332,15 +332,15 @@ class DoublyLinkedList:
                 if current == self.head and current == self.tail:
                     self.head = self.tail = None
                 elif current == self.head:
-                # First node
+                    # First node
                     self.head = current.next
                     self.head.prev = None
                 elif current == self.tail:
-                # Last node
+                    # Last node
                     self.tail = current.prev
                     self.tail.next = None
                 else:
-                # Middle node
+                    # Middle node
                     current.prev.next = current.next
                     current.next.prev = current.prev
         
