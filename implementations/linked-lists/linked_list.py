@@ -86,7 +86,7 @@ class LinkedList:
 
     def delete_at_end(self):
         if self.head is None:
-            return f"List is empty!!"
+            raise ValueError("List is empty!")
         
         if self.head.next is None:  # Single-element list
             self.head = None
