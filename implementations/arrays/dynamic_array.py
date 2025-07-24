@@ -55,7 +55,7 @@ class DynamicArray:
         # TODO: Return element at index
         
         if self.size == 0:
-            raise IndexError (f"Cannot fetch values from empty array!!")
+            raise IndexError(f"Cannot fetch values from empty array!!")
         
         if index < 0 or index >= self.size:
             raise IndexError(f"Index value entered {index} is out of bounds for array of size {self.size}")
