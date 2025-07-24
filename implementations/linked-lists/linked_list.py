@@ -114,7 +114,7 @@ class LinkedList:
 
     def delete_by_value(self, data):
         iter = self.head
-        while iter.next.data != data:
+        while iter.next and iter.next.data != data:
             iter = iter.next
 
         iter.next = iter.next.next
