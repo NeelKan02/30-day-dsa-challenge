@@ -213,7 +213,7 @@ class DynamicArray:
     def __str__(self):
         """String representation of the array."""
         # TODO: Return string representation of elements
-        return "[" + ", ".join(str(self.data[i])for i in range(self.size)) + "]"
+        return "[" + ", ".join(str(self.data[i]) for i in range(self.size)) + "]"
 
     
     def __repr__(self):
