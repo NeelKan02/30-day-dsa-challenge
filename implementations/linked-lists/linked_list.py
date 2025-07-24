@@ -169,6 +169,7 @@ class LinkedList:
 
     def clear(self):
         self.head = None
+        self.size = 0
 
     def remove_duplicates(self):
         if self.is_empty():
