@@ -117,7 +117,7 @@ class LinkedList:
         while iter.next.data != data:
             iter = iter.next
 
-        iter.next = iter .next.next 
+        iter.next = iter.next.next
         self.size -= 1
 
     def search(self, data):
