@@ -67,9 +67,12 @@ class LinkedList:
 
     def insert_after_value(self, data, val):
         iter = self.head
-        while iter.next.data != val:
+        while iter.next is not None and iter.next.data != val:
             iter = iter.next
-
+        
+        if iter.next is None:
+            raise ValueError(f"Value {val} not found in the list")
+        
         node = Node(data, iter.next)
         iter.next = node
         self.size += 1
