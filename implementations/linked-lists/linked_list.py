@@ -132,7 +132,7 @@ class LinkedList:
             iter = iter.next
             pos += 1
 
-        return pos
+        return -1
     
     def get_at_position(self, position):
         if self.is_empty():
