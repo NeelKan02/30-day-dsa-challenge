@@ -120,7 +120,7 @@ class DynamicArray:
         # TODO: Shift elements to the right
         # TODO: Insert element at index
         # TODO: Increment size
-        if index <0 or index > self.size:
+        if index < 0 or index > self.size:
             raise IndexError (f"Index value {index} is wrong for array of size {self.size}.")
         
         if self.size == self._capacity:
